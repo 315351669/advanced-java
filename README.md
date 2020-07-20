@@ -26,7 +26,7 @@
 
 ### [消息队列](./docs/high-concurrency/mq-interview.md)
 
-* [为什么使用消息队列？消息队列有什么优点和缺点？Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么优点和缺点？](./docs/high-concurrency/why-mq.md)
+* [为什么使用消息队列？消息队列有什么优点和缺点？Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么优点和缺点？](./docs/high-concurrency/why-mq.md)吴亚明
 * [如何保证消息队列的高可用？](./docs/high-concurrency/how-to-ensure-high-availability-of-message-queues.md)
 * [如何保证消息不被重复消费？（如何保证消息消费的幂等性）](./docs/high-concurrency/how-to-ensure-that-messages-are-not-repeatedly-consumed.md)
 * [如何保证消息的可靠性传输？（如何处理消息丢失的问题）](./docs/high-concurrency/how-to-ensure-the-reliable-transmission-of-messages.md)
